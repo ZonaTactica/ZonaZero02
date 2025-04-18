@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zona Táctica</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Zona Táctica</h1>
+    <p>Tu tienda de ropa táctica de confianza.</p>
+  </header>
+
+  <section class="products">
+    <div class="product">
+      <img src="https://via.placeholder.com/200x150" alt="Pantalón táctico" />
+      <h2>Pantalón Táctico</h2>
+      <p>$12.000</p>
+    </div>
+    <div class="product">
+      <img src="https://via.placeholder.com/200x150" alt="Borceguíes" />
+      <h2>Borceguíes Reforzados</h2>
+      <p>$25.000</p>
+    </div>
+    <div class="product">
+      <img src="https://via.placeholder.com/200x150" alt="Campera táctica" />
+      <h2>Campera Táctica</h2>
+      <p>$18.000</p>
+    </div>
+  </section>
+</body>
+</html>
