@@ -56,3 +56,6 @@ p {
   margin: 0;
   color: #aaa;
 }
+body {
+  background-color: red;
+}
